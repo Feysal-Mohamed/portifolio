@@ -40,7 +40,7 @@ function Footer() {
                 <span>Instagram</span>
             </li>
             <li>
-              <a href="https://wa.me/252612345678" target="_blank" rel="noopener noreferrer" className="flex items-center space-x-2 hover:text-green-500">
+              <a href="https://wa.me/252618927671" target="_blank" rel="noopener noreferrer" className="flex items-center space-x-2 hover:text-green-500">
                 <i className="fab fa-whatsapp"></i>
                 <span>WhatsApp</span>
               </a>
