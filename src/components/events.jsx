@@ -11,7 +11,7 @@ function Events() {
       id: 1,
       title: "Music Festival",
       description: "Join us for an unforgettable night of music and fun.",
-      img: "https://moewr.gov.so/wp-content/uploads/2023/12/somalia-econ-update-event-page-600x338.webp",
+      img: "https://images.pexels.com/photos/5280935/pexels-photo-5280935.jpeg",
     },
     {
       id: 2,
@@ -68,10 +68,10 @@ function Events() {
       img: "https://images.pexels.com/photos/716276/pexels-photo-716276.jpeg",
     },
      {
-      id: 10,
+      id: 11,
       title: "Science Fair",
       description: "Discover exciting science projects and inventions.",
-      img: "https://moewr.gov.so/wp-content/uploads/2023/12/somalia-econ-update-event-page-600x338.webp",
+      img: "https://images.pexels.com/photos/5280935/pexels-photo-5280935.jpeg",
     },
   ];
 

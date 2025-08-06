@@ -7,7 +7,7 @@ function About(){
 
   return  <>
     <Header />
-    <section id="about" className="max-w-7xl mx-auto px-6 py-12 flex flex-col md:flex-row items-center gap-8">
+    <section id="about" className="max-w-7xl mx-auto px-6 py-12 space-y-10 md:space-y-0 flex flex-col md:flex-row items-center gap-8">
       
       {/* Left - Text */}
       <div className="flex-1">

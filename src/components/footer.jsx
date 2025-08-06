@@ -4,7 +4,7 @@ import { NavLink } from "react-router-dom";
 
 function Footer() {
   return (
-    <footer className="bg-gray-900 text-white py-8">
+    <footer className="bg-gray-900 text-white px-3  py-8">
       <div className="max-w-7xl mx-auto px-4 grid grid-cols-2 md:grid-cols-2 gap-8">
 
         {/* Quick Links */}
@@ -46,7 +46,7 @@ function Footer() {
               </a>
             </li>
             <li>
-              <a href="mailto:fe@gmail.com" className="flex items-center space-x-2 hover:text-red-500">
+              <a href="mailto:feysalAbdirizak@gmail.com" className="flex items-center space-x-2 hover:text-red-500">
                 <i className="fas fa-envelope"></i>
                 <span>Gmail</span>
               </a>
