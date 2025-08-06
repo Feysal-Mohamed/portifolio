@@ -76,8 +76,8 @@ function Events() {
   ];
 
   return (<>
-
-    <section  style={{height: "360px" , overflow:"hidden"}} className= "  max-w-7xl mx-auto p-6">
+ {/* ${{ style={{height: "360px" , overflow:"hidden"}}}} */}
+    <section  className= {` h-[900px] sm:h-[360px] overflow-hidden max-w-7xl mx-auto p-6`}>
       <h2 className="text-3xl font-bold text-gray-800 mb-6">My Events</h2>
       
       <div className="grid grid-cols-1 sm:grid-cols-4 gap-6">
